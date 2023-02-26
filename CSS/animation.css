@@ -9,7 +9,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  animation: fadeout 0.2s 1s forwards;
+  animation: fadeout 0.2s 0.75s forwards;
 }
 .spinner-large {
   position: absolute;
@@ -125,8 +125,8 @@
   animation: itemAppear 1s;
   animation-delay: 0s;
   animation-timing-function: cubic-bezier(0.5, 1.58, 0.34, 0.82);
-  max-width: 100%;
   margin-top: 0;
+  max-width: 100%;
 }
 .delay-0 {
   animation-delay: 0s;
