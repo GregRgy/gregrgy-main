@@ -1,5 +1,4 @@
 .footer {
-  width: 100%;
   background: #353535;
   color: white;
   padding: 3rem;
@@ -9,7 +8,6 @@
 .footer-title {
   font-family: "Shrikhand", cursive;
   font-style: italic;
-  font-weight: 700;
   margin: 1rem 0rem;
 }
 .footer-link {
