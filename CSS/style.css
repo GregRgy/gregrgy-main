@@ -153,8 +153,11 @@ a {
 .restaurant-info {
   padding: 2rem;
   display: grid;
+  align-items: center;
+  justify-content: space-between;
 }
 .restaurant-name {
+  font-weight: 600;
   margin-bottom: 0.5rem;
   font-size: 1.6rem;
 }
